@@ -1,0 +1,1 @@
+Go sample from <go in action>
